@@ -1,12 +1,9 @@
-## Всем привет, я Михаил 👋
+## Всем привет, я Михаил 
 
 ### Начинающий iOS - разработчик
 
-🔹 Разрабатываю pet-проекты
-🔹 Изучаю Swift, SwiftUI, MVVP  
 
-
-### 🧰 
+### 
 
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
@@ -17,4 +14,4 @@
 
 ### 📫 Связаться со мной: 
 
-[![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?label=@MikeWolf)](https://t.me/MikeWolf)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-@MikeWolf-blue?style=for-the-badge&logo=telegram)](https://t.me/MikeWolf)
