@@ -17,4 +17,4 @@
 
 ### 📫 Связаться со мной: 
 
-[![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?id=@MikeWolf)](https://t.me/MikeWolf)
+[![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?label=@MikeWolf)](https://t.me/MikeWolf)
